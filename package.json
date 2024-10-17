@@ -1,5 +1,5 @@
 {
-  "name": "@openai/realtime-api-beta",
+  "name": "@nurixlabs/realtime-api-beta",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha ./test/index.js"
   },
-  "author": "Keith Horwood <khorwood@openai.com>",
+  "authors":["Keith Horwood <khorwood@openai.com>", "Vishal Pratap Singh <vishal@nurix.ai>"],
   "license": "MIT",
   "devDependencies": {
     "audio-decode": "^2.2.2",
