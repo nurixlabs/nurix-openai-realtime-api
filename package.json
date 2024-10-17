@@ -1,7 +1,6 @@
 {
   "name": "@nurixlabs/realtime-api-beta",
   "version": "0.0.0",
-  "private": true,
   "type": "module",
   "description": "OpenAI Realtime API Reference Client (beta)",
   "main": "index.js",
